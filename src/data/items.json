@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA3CCtfqWzLzdWrLCEfilMxy8oKtKDFLAupw&usqp=CAU"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-MxQed2oHWiSEq0RFvAwfxpJt4Cr1b0lUag&usqp=CAU"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSITW5sSTNFjWldS0XbQYxnVTbmRucL8kjwA&usqp=CAU"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 14000,
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiqEtcEj9GA0VWRM1wPqLO3N5usKoBrg5u2A&usqp=CAU"
+  }
+]
